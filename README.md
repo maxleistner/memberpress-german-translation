@@ -1,0 +1,1 @@
+memberpress-german-translation
